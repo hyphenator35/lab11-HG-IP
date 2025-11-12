@@ -1,3 +1,7 @@
+#https://github.com/hyphenator35/lab11-HG-IP
+#Partner 1: Hunter Garcia
+#Partner 2: Ian Pallapati
+
 import unittest
 from calculator import *
 
